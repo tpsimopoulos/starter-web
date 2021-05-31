@@ -1,4 +1,0 @@
-'Hola'
-'Hello from master'
-'Hello from ff-branch'
-
