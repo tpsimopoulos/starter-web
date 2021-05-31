@@ -1,0 +1,7 @@
+'Hola'
+<<<<<<< HEAD
+'Hello from master'
+=======
+
+'Hello from ff-branch'
+>>>>>>> ff-branch
